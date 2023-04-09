@@ -1,0 +1,42 @@
+# server settings
+hostname: Latam Community
+description: Multi CW/TG
+website: discord.com
+
+# language settings
+multilanguage_enable: true
+languages: [en, es]
+
+# database settings
+mysql_host: localhost
+mysql_user: root
+mysql_password: mcp44
+mysql_database: latam
+
+# ip info db settings
+iidb_enable: false
+iidb_token:
+iidb_endpoint: api.ipinfodb.com/v3/ip-city
+
+# discord settings
+ds_enable: false
+ds_bot_token:
+ds_guild_id:
+ds_role_manager:
+ds_role_admin:
+ds_role_mod:
+ds_channel_general:
+ds_channel_admin:
+
+# gamemode settings
+default_rounds: 1
+default_points: 10
+lagcomp_suffix_enable: true
+
+team_alpha_name: WTx
+team_alpha_color: 000FF
+team_alpha_skin: 230
+
+team_beta_name: Away
+team_beta_color: FF00FF
+team_beta_skin: 230

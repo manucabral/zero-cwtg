@@ -1,0 +1,8 @@
+# DON'T REMOVE ANY KEY, ONLY MODIFY THE VALUE.
+player_welcome: Bienvenido al ser servidor {ADACAC}%s{FFFFFF}.
+player_login: This account is registered. Please login entering your password.
+player_register: You can register this account by entering your password in the field below.
+player_password_short: Password too short, try again. 
+player_password_long: Password too long, try again.
+player_success_register: You are now registered, please login.
+player_success_login: You logged successfully.
